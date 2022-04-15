@@ -1,5 +1,5 @@
 import React from 'react';
-import PlayerViews from './PlayerViews.js';
+import PlayerViews from './PlayerViews';
 
 const exports = {...PlayerViews};
 
